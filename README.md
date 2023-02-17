@@ -1,6 +1,6 @@
 # HFDP - WeatherStation (Observer)
 
-Proyecto Ducks en ```CSharp```. Patrón ```Observer```
+Proyecto WeatherStation en ```CSharp```. Patrón ```Observer```
 
 * Programa principal:
 ```
